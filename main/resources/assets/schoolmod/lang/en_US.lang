@@ -1,3 +1,4 @@
-tile.Karim.name=Karim
+tile.Karim.name=Karimblock
 itemGroup.schoolmod=School Mod
 item.karim_essence.name=Karim Essence
+entity.karimEntity.name=Karim
